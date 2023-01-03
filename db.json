@@ -1,0 +1,44 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "seyi abejide",
+      "email": "g@mail.com",
+      "phone": "09028395899",
+      "dept": "egineering",
+      "sex": "male"
+    },
+    {
+      "id": "2",
+      "name": "ahmed james",
+      "email": "ahmed@mail.com",
+      "sex": "male",
+      "dept": "marketing",
+      "phone": "09025678765"
+    },
+    {
+      "id": "5",
+      "name": "mendy",
+      "email": "mendy@mail.com",
+      "sex": "male",
+      "dept": "energy",
+      "phone": "09034567785"
+    },
+    {
+      "id": "3",
+      "name": "remy",
+      "email": "remy@mail.com",
+      "sex": "F",
+      "dept": "sales",
+      "phone": "090933383848"
+    },
+    {
+      "id": "eCM_KGX",
+      "name": "simi",
+      "email": "simi@simi.com",
+      "sex": "F",
+      "dept": "Agric",
+      "phone": "0976545677876"
+    }
+  ]
+}

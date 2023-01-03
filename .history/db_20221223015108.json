@@ -1,0 +1,14 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "seyi abejide",
+      "email": "g@mail.com",
+      "phone": "09028395899",
+      "dept": "egineering",
+      "sex": "male"
+      
+    }
+  ]
+ 
+}
